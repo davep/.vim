@@ -1,5 +1,5 @@
 " Make things colourful.
-colo morning
+colo slate 
 syntax on
 
 " Show a status bar
