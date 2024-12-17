@@ -2,6 +2,9 @@
 colo slate 
 syntax on
 
+" Set the font when in a GUI.
+set guifont=Hack\ Regular:h14
+
 " Show a status bar
 set laststatus=2
 
